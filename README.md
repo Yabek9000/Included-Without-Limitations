@@ -109,6 +109,7 @@ This project helps increase digital equity for:
 ## 👥 Contributors
 
 * **Taseen** ([@yabek9000](https://github.com/yabek9000))
+* **Gabrielius** ([@GabrieliusUosis](https://github.com/GabrieliusUosis))
 
 ---
 
