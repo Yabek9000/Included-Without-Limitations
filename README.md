@@ -111,7 +111,7 @@ This project helps increase digital equity for:
 * **Taseen** ([@yabek9000](https://github.com/yabek9000))
 * **Gabrielius** ([@GabrieliusUosis](https://github.com/GabrieliusUosis))
 * **Chetas** ([@Chets45](http://github.com/Chets45))
-* **joshua** ([jbn-creator](https://github.com/jbn-creator))
+* **joshua** ([@jbn-creator](https://github.com/jbn-creator))
 ---
 
 ## 📄 License
